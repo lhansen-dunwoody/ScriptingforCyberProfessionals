@@ -1,4 +1,4 @@
-# Scripting for Cyber Professionals
+# Scripting for Cyber Professionals - Labs and Homework
 
 [Research and Development 1](https://github.com/lhansen-dunwoody/ResearchandDevelopment1)
 
